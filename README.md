@@ -1,2 +1,2 @@
 # README #
-Hello, how are you?
+Just testing
